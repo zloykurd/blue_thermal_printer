@@ -1,4 +1,4 @@
-package id.kakzaki.blue_thermal_printer;
+package kg.zkdev.blue_thermal_printer;
 
 import android.Manifest;
 import android.app.Activity;

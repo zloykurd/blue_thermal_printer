@@ -1,7 +1,7 @@
-package id.kakzaki.blue_thermal_printer;
+package kg.zkdev.blue_thermal_printer;
 
 /**
- * Created by https://goo.gl/UAfmBd on 2/6/2017.
+ * Created by <a href="https://goo.gl/UAfmBd">...</a> on 2/6/2017.
  */
 
 public class PrinterCommands {
